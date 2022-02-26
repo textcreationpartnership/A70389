@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Restitution to the royal author, or, A Vindication of King Charls the Martyr's most excellent book intitutled 'Eikōn basilikē' from the false, scandalous, and malicious reflections lately published against it</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70389</idno>
+            <idno type="STC">Wing K121B</idno>
+            <idno type="STC">ESTC R36779</idno>
+            <idno type="EEBO-CITATION">16015414</idno>
+            <idno type="OCLC">ocm 16015414</idno>
+            <idno type="VID">104762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:32 or 1703:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Restitution to the royal author, or, A Vindication of King Charls the Martyr's most excellent book intitutled 'Eikōn basilikē' from the false, scandalous, and malicious reflections lately published against it</title>
+                  <author>Levett, William.</author>
+                  <author>Keble, Samuel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Keble ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing (2nd ed.) to Samuel Keble.</note>
+                  <note>Advertisement: p. 8.</note>
+                  <note>"Licensed, May 10. 1691: Z. Isham."</note>
+                  <note>Contains letter, on p. 6-7, signed: William Levett.</note>
+                  <note>This item appears as Wing Rll75 (number cancelled in Wing 2nd ed.) at reel 1155:32, and as Wing K121B at reel 1703:9.</note>
+                  <note>Reproduction of originals in the Huntington Library and the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Eikon basilike.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104762:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:104762:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>RESTITUTION TO THE Royal Author OR A VINDICATION OF King <hi>CHARLS</hi> the Martyr's moſt Excellent BOOK; Intituled ἘΙΚΩΝ ΒΑΣΙΛΙΚΗ From the Falſe, Scandalous, and Malicious Reflections lately Publiſhed againſt it.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>May 10, 1691:</date>
+                           </dateline> 
+                           <signed>Z. Iſham.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Samuel Keble,</hi> at the Great <hi>Turks-Head</hi> in <hi>Fleet-ſtreet,</hi> over againſt <hi>Fetter-Lane-end.</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="defense_of_book">
+            <pb facs="tcp:104762:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:104762:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>RESTITUTION TO THE ROYAL AUTHOR: OR A Vindication of King <hi>Charles</hi> the Martyr's moſt Ex<g ref="char:EOLhyphen"/>cellent Book Intituled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from the Falſe, Scandalous, and Malicious Reflections lately Publiſh<g ref="char:EOLhyphen"/>ed againſt it.</head>
+            <p>MR. <hi>Milton's</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> being lately reprinted, the Editor has thought ſit, out of what deſign he beſt knows, to prefix the following <hi>Advertiſement</hi> to his Book,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="notice">
+                        <head>ADVERTISEMENT.</head>
+                        <p>Whereas a Book, called <hi>Eikon Baſilike,</hi> or King <hi>Charles</hi> the <hi>Firſt</hi>'s <hi>Meditations,</hi> is most commonly reported and believed by many, eſpecially the Clergy, to be compoſ<g ref="char:EOLhyphen"/>ed by King <hi>Charles</hi> the <hi>Firſt;</hi> the following Inſertion of the Noble Lord <hi>Angleſey,</hi> under his own hand, was found by <hi>Edward Millington,</hi> prefixt to one of the Books, reputed to be King <hi>Charles</hi> the <hi>Firſt's.</hi>
+                        </p>
+                        <p>Which <hi>Memorandum,</hi> if the <hi>Declaration</hi> of two Kings may be believed, is ſuffi<g ref="char:EOLhyphen"/>cient to ſatisfie the World, how much that King was impoſed upon by Dr. <hi>Gauden</hi> Biſhop of <hi>Exeter,</hi>
+                        </p>
+                        <div type="memorandum">
+                           <head>MEMORANDUM.</head>
+                           <p>
+                              <hi>King</hi> Charles <hi>the</hi> Second <hi>and the Duke of</hi> York, <hi>did</hi> (<hi>both in the laſt Seſſion of Parliament,</hi> 1675. <hi>when I ſhewed them in the Lords Houſe, the Written Copy of this Book, wherein are ſome Corrections and Alterations, written with the Late King</hi> Charles <hi>the</hi> Firſt's <hi>own Hand,</hi>) <hi>aſſure me that this was none of the ſaid Kings compiling, but made by Dr.</hi> Gauden <hi>Biſhop of</hi> Exeter, <hi>which I here inſert for the undeceiving of others in this Point, by atteſting ſo much under my Hand.</hi>
+                           </p>
+                           <closer>
+                              <signed>Angleſey.</signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now to prevent the ill Impreſſions, which may poſſibly be occaſion'd by the abovementioned <hi>Memorandum,</hi> and to reſtore this Incomparable Book to the juſt Priviledge of its Royal Author, I ſhall very briefly do theſe two things.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:104762:3"/>
+               <!-- PDF PAGE 3 -->
+I. Shew ſome Marks of Suſpicion upon the <hi>Advertiſement.</hi>
+            </p>
+            <p n="2">II. Suppoſing it had all the pretended advantages, I ſhall produce ſuch proof againſt it, which, the Circumſtances of the Evidence conſidered, muſt be allowed an over Ballance to his Lordſhips Atteſtation.</p>
+            <p n="1">I There are ſome things in the <hi>Advertiſement</hi> which render the Credit of it very queſtionable. For 1. It calls the Duke his then Royal Highneſs, <hi>the Duke of York.</hi> which was no Court Language in 1675; there being neither Reaſon nor Cuſtom for ſuch a length of Diſtinction at that time. Now its ſomewhat unlikely, that a Perſon of Honor and a Courtier, eſpecially one of my late Lord <hi>Angleſey</hi>'s Senſe, ſhould be guilty of ſuch an Impropriety. 2. We are inform'd by the <hi>Advertiſement,</hi> that in the <hi>Written Coppy</hi> of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>There are ſome Corrections and Alterations written with the late King</hi> Charles <hi>the</hi> firſt <hi>his own Hand;</hi> which is no contemptible Argument, if we had no other, that the King was the Author; otherwiſe we ſhall be at a loſs for the reaſon of his Majeſty's Correcting the Manuſcript, and ſuffering it to paſs under the Title of his own Compoſure. 3. The making Biſhop <hi>Gauden</hi> the Author of this Book is another diſadvantage to the credit of the <hi>Memorandum,</hi> for the Stile, the Air, and Thought of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is as different from the management of Biſhop <hi>Gauden's</hi> writings, as 'tis poſſible to imagine; But out of reſpect to the Biſhop's Memory, I ſhall forbear to inſiſt upon the Compariſon. 'Its likely therefore King <hi>Charles</hi> the <hi>Second</hi> and the then Duke, might tell the late Earl of <hi>Angleſey</hi> (which his Lordſhip might poſſibly forget) that the Manuſcript was not King <hi>Charles</hi> the <hi>Firſt</hi> his Hand; but a Tranſcript of Dr. <hi>Gauden's</hi> writing, which as it agrees with matter of Fact; ſo it gives a fair ac<g ref="char:EOLhyphen"/>count of the <hi>Alterations</hi> in the Copy, which the <hi>Memorandum</hi> grants were made by the King.</p>
+            <p n="2">II. Suppoſing this <hi>Memorandum</hi> had all the pretended Advantages; I ſhall now produce ſuch proof againſt it, which the Circumſtances of the Evidence con<g ref="char:EOLhyphen"/>ſidered, muſt be allowed an over ballance to his Lordſhips Atteſtation.</p>
+            <p n="1">1. We have the <hi>Letters Patents</hi> of King <hi>Charles</hi> the <hi>Second,</hi> dated <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> the <hi>29th.</hi> 1660. In which <hi>Richard Royſton</hi> of <hi>London,</hi> Bookſeller, has the ſole priviledge given him of Printing all the <hi>Works</hi> of King <hi>Charles</hi> the <hi>Firſt,</hi> amongſt which the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is mentioned, with a particular Character and Commendation.</p>
+            <p n="2">2. The ſame Priviledge for Reprinting the <hi>Works</hi> of King <hi>Charles</hi> the <hi>Firſt,</hi> is granted to the abovemention'd <hi>Richard Royſton</hi> by his P<hi rend="sup">t</hi>. Majeſty King <hi>James</hi> the <hi>Second,</hi> as appears by his Majeſties <hi>Letters</hi> dated <hi>February</hi> 22. 1685/6. Which grant refers expreſly to the firſt Edition Publiſh'd by <hi>Richard Royſton,</hi> in the year 1662, and in which his Majeſty declares that <hi>all the Works of his Royal Father were Collected and Publiſhed.</hi> Which former Impreſſion, as I have already obſerv'd, makes particular men<g ref="char:EOLhyphen"/>tion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Now I leave it to any unprejudiced Perſon to judge whether 'tis in the leaſt probable, that either of their Majeſties ſhould tell the late Earl of <hi>Angleſey,</hi> that this excellent Book was written by Dr. <hi>Gauden,</hi> ſince they have both own'd it to be their Royal Father's in ſo publick a manner, ſo that to uſe the expreſſion of the <hi>Advertiſement, if the Declaration of two Kings,</hi> made with all the Circumſtances of Advantage, <hi>may be believ'd</hi> before a blind Manuſcript, written by a doubtful Hand, and grounded upon a private Relation, then we have <hi>ſufficient</hi> evidence to <hi>ſatisfie the World how much this Advertiſer has Endeavour'd to impoſe upon it.</hi> To theſe Royal Te<g ref="char:EOLhyphen"/>ſtimonies,
+<pb n="5" facs="tcp:104762:3"/>
+               <!-- PDF PAGE 3 -->I ſhall ſubjoyn that of Sir. <hi>Will. Dugdale,</hi> who having mention'd the reſtleſs Endeavours of the Rebels to leſſen his Majeſties Reputation, as by other methods of Calumnies and Detraction, ſo particularly with reſpect to this Book, aſſigning it to ſome other, tho' uncertain, Author. Having re<g ref="char:EOLhyphen"/>marked this ill uſage he delivers his opinion in theſe words.</p>
+            <p>
+               <q>But to manifeſt that theſe were no borrowed Wares,<note place="margin">Sir. <hi>William Dugdale's</hi> ſhort View of the late troubles in <hi>England,</hi> pr. <hi>1681.</hi> p. <hi>380.</hi>
+                  </note> but by the good and gracious aſſiſtance of Almighty God were totally of his own compoſure in the midſt of his moſt ſad afflictions, beſides the unlikely-hood that any ſuch expreſſions could flow from an heart not oppreſſed and griev'd with ſuch a weight of ſorrow as his was; I ſhall make it evident from the Teſtimony of very credible Perſons yet Living, that he had begun the penning of them long before he went from <hi>Oxford</hi> to the <hi>Scots:</hi> For the Manuſcript it ſelf writ<g ref="char:EOLhyphen"/>ten with his own hand being found in his Cabinet, which was taken at <hi>Naueſby</hi> Fight, was reſtor'd to him after he was brought to <hi>Hampton Court,</hi> by the Hand of Major <hi>Huntington,</hi> thro the favour of General <hi>Fairfax,</hi> of whom he obtain'd it. And that whilſt he was in the <hi>Iſle</hi> of <hi>Wight,</hi> it was there ſeen frequently by Mr. <hi>Thomas Herbert,</hi> who then waited on his Maje<g ref="char:EOLhyphen"/>ſty in his Bed-chamber; as alſo by Mr. <hi>William Levet,</hi> (a Page of the back-Stairs) the Title then perfix'd to it being <hi>Suſpiria Regalia,</hi> who not only read ſeveral parts thereof but ſaw the Ring divers times writing farther on it. Add hereunto the Teſtimony of Mr. <hi>Richard Royſton</hi> a Bookſeller, at the <hi>An<g ref="char:EOLhyphen"/>gel</hi> in <hi>Ivy-Lane;</hi> who having in thoſe Rebellious times, adventur'd to Print divers of his Majeſty's Declarations, Speeches, and Meſſages; about the be<g ref="char:EOLhyphen"/>ginning of <hi>Oct.</hi> 1648, (the King being then in the <hi>Iſle of Wight</hi>) was ſent to by his Majeſty to prepare all things ready for the printing ſome papers which he purpoſed ſhortly after to convey to him. Which was this very Copy brought to him on the Twenty Third of <hi>December</hi> next following, by one Mr. <hi>Edward Symmons,</hi> a Reverend Divine, who Receiv'd it from Dr. <hi>Bryan Duppa.</hi> then Biſhop of <hi>Salisbury,</hi> and afterwards of <hi>Wincheſter.</hi> In the Print<g ref="char:EOLhyphen"/>ing whereof Mr. <hi>Royſton</hi> made ſuch ſpeed, that it was finiſh'd before that diſmal Thirtieth of <hi>January,</hi> that his Majeſties Life was ſo taken away, as before is obſerv'd.</q>
+            </p>
+            <p>To make the proof more inconteſtible, if poſſible, I ſhall in the laſt place inſert a Letter, tranſcribed from the Original, written by Mr. <hi>Levet</hi> now Living; the Gentleman mentioned by Sir <hi>William Dugdale</hi> in the place a<g ref="char:EOLhyphen"/>bove cited.</p>
+            <p>The Superſcription of the ſaid Letter runs thus,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For <hi>Seymer Bourman,</hi> 
+                     <abbr>Eſq</abbr> near the Arch in <hi>Lincolns-Inn Fields.</hi>
+                  </head>
+                  <opener>
+                     <pb n="6" facs="tcp:104762:4"/>
+                     <!-- PDF PAGE 4 -->
+                     <salute>Dear Brother,</salute>
+                  </opener>
+                  <p>YOurs of the <hi>21th.</hi> of this inſtant <hi>April</hi> I received, and one Letter before that to the ſame effect, <hi>Viz.</hi> To give a true Account of my knowledg of that unparallel'd Book, which his Sacred Majeſty, of ever bleſſed memory, King <hi>Charls</hi> the Firſt (murdered by his own Rebellious Subjects before his own Pallace at <hi>White-hall,</hi> with all the violent and maliti<g ref="char:EOLhyphen"/>ous circumſtances that wicked Men could invent) which Book, of my certain knowledge, I can depoſe, was truly His own, hav<g ref="char:EOLhyphen"/>ing obſerved His Majeſty oftentimes writing His Royal Re<g ref="char:EOLhyphen"/>ſentments of the bold and inſolent behaviour of His Souldi<g ref="char:EOLhyphen"/>ers (His Rebellious Subjects) when they had Him in their cu<g ref="char:EOLhyphen"/>ſtody. I waited on His Majeſty as Page of the Bed-chamber in ordinary during all the time of His Solitudes, (except when I was forced from Him) and eſpecially being nominated by His Majeſty to be one of His Servants, amongſt others, that ſhould attend Him during the Treaty at <hi>Newport</hi> in the Iſle of <hi>Wight,</hi> had the happineſs to read the ſame oftentimes in Manuſcript under His Majeſties own Hand, being plea<g ref="char:EOLhyphen"/>ſed to leave it in the Window in His own Bed-chamber, where I was alwayes obliged to attend His Majeſties com<g ref="char:EOLhyphen"/>ing thither. But the Treaty being ended in few dayes af<g ref="char:EOLhyphen"/>ter, the Souldiers with One to conduct them, by name Mr. <hi>Anthony Mildmay</hi> then Cup-bearer, came to the Bed-chamber, about ii. of the clock in the Night, and knocked at the door, and one <hi>Mr. Herbert, Mr. Kirk,</hi> and my ſelf having ſome hint of their intentions, were watching in an inward Room, and hearing the noiſe, went into His Majeſties Bed-chamber, and asked, who they were that durſt diſturb His Majeſty at that unſeaſonable time of the Night, who anſwered, they were ſent to tell the King, He muſt riſe and go with them. We ac<g ref="char:EOLhyphen"/>quainting His Majeſty with their deſign, He was pleaſed to command us to tell them, He would go with them, but it was not His uſual hour to riſe ſo ſoon, we again acquainted the Souldiers with His Majeſties anſwer. They inſtead of complying with his Majeſty, bid us tell Him, if He did not riſe preſently they muſt force Him to it: His Majeſty onely
+<pb n="7" facs="tcp:104762:4"/>
+                     <!-- PDF PAGE 4 -->ſaid, if I muſt, give me my Cloaths, and ſo He immediately aroſe. (Here you may obſerve a mirrour of Patience in a di<g ref="char:EOLhyphen"/>ſtreſſed Prince) During the time of His Majeſties making him<g ref="char:EOLhyphen"/>ſelf ready, he concern'd himſelf only how to ſecure this Book of his, and a ſmall Cabinet, wherein he ſecured his Letters to his Queen, who was then beyond the Sea, and his Majeſty having procured a Paſs for me from the Governour that I ſhould wait on him there; He gave me in charge this ſaid Book and ſmall Cabinet, which I faithfully preſented to his Maje<g ref="char:EOLhyphen"/>ſties own hands that Night in <hi>Hurſt-Caſtle.</hi> But the Gover<g ref="char:EOLhyphen"/>nour, by what information is too tedious to inſert here at this time, and therefore I omit it, did on the <hi>Saturday</hi> baniſh me out of the Caſtle.</p>
+                  <p>I ſhould have ſent you a Relation which I had from <hi>Roy<g ref="char:EOLhyphen"/>ſton,</hi> the Kings Printer, for the Printing the ſaid Book by his Majeſties eſpecial Command, brought to him by a Divine, but not to be<note n="*" place="bottom">By <hi>Printed,</hi> is to be underſtood, <hi>Publiſhed.</hi>
+                     </note> printed till after the Kings death, which he obſerved accordingly, for which <hi>Cromwel</hi> ſent for him to <hi>White-hall,</hi> not onely promiſing Rewards, but alſo threatning Puniſhment, if he would not deny, that he print<g ref="char:EOLhyphen"/>ed it by his Majeſties Order, which he refuſing to do did im<g ref="char:EOLhyphen"/>priſon him for about a fortnight, but ſeeing he could not work upon him, releaſed him; which is all at preſent from</p>
+                  <closer>
+                     <dateline>From <hi>Savernack</hi> Park near <hi>Marlborough,</hi> 
+                        <date>Apr. 29. 1691.</date>
+                     </dateline>
+                     <signed>Your Affectionate Brother To ſerve you <hi>WILLIAM LEVETT.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe Authorities, together with Remarks upon the <hi>Memorandum</hi> are, I conceive, ſufficient to clear the Point in hand, and to give the Reader full ſatisfaction. I ſhall juſt add a word concerning the <hi>Prayer,</hi> which <hi>Milton</hi> pretends the King took from Sir <hi>Philip Sidney's Arcadia,</hi> and ſo conclude.</p>
+            <p n="1">I. We may take notice that the Prayer it ſelf is Grave, Pious, and unex<g ref="char:EOLhyphen"/>ceptionable.</p>
+            <p n="2">II. This Prayer, as it is obſerv'd by the excellent Author of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 82, <hi>Was neither made by an Heathen Woman, nor to an Heathen God (as the
+<pb n="8" facs="tcp:104762:5"/>
+                  <!-- PDF PAGE 5 -->Objection ſuppoſes) but compoſed, as is believed by the Author a Chriſtian, with out Reference to any Heathen Deity.</hi>
+            </p>
+            <p n="3">III. This <hi>Prayer</hi> was not printed with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in two or three of the Firſt Impreſſions of that Book, which is an Argument it was not uſed by the King; but afterward inſerted by the Printers for their private advan<g ref="char:EOLhyphen"/>tage. This Inference, beſides the reaſonableneſs of it, is the Opinion of the Learned Perſon aboyementioned.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <list>
+               <item>
+                  <hi>PReparation to a Holy Life,</hi> or Devotions for Families or Private Perſons, with Directions ſuited to moſt particular Caſes, <hi>&amp;c.</hi> by the Author of the <hi>Weeks Preparation to the Sacrament,</hi> &amp;c.</item>
+               <item>
+                  <hi>A</hi> Collection of Private Forms of Prayer out of the Common Prayer Book, for Morning, Noon and Night, and other ſpecial Occaſions, being in a diffe<g ref="char:EOLhyphen"/>rent method from any former, by the Author of the <hi>Weeks Preparation to the Sacrament,</hi> &amp;c. Together with the Holy Feaſts and Faſts as they are obſerved in the Church of <hi>England,</hi> explained, and the Reaſons why they are yearly Celebrated.</item>
+               <item>
+                  <hi>A</hi> Table to all the Epiſtles and Goſpels in the Book of Common-Prayer, ſo that you may find any Texts of Scripture, being contained in them.</item>
+               <item>Rules of more Devout Behaviour in the time of Divine Service in the Church of <hi>England.</hi>
+               </item>
+               <item>An Explication of the Terms, Order, and Uſefulneſs of the Liturgy of the Church of <hi>England,</hi> by way of Queſtion and Anſwer, recommended to be learned after the Church Catechiſm.</item>
+            </list>
+            <p>All Five Printed for <hi>Sam. Keble,</hi> and are to be Sold at the <hi>Great Turks-Head</hi> in <hi>Fleetſtreet</hi> over againſt  <hi>Fetter-Lane end.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
